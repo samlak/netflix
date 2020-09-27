@@ -1,0 +1,19 @@
+.footer {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	font-weight: 700;
+}
+
+
+.footer__link:link,
+.footer__link:visited {
+	color: white;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+.footer__link:hover {
+	font-size: 19px;
+}
